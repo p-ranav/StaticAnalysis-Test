@@ -1,0 +1,8 @@
+
+// Categories of errors to suppress
+unusedFunction
+useStlAlgorithm
+
+// Example directories to ignore
+// Thirty Party libraries
+*:thirdparty/libs/*
